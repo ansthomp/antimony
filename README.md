@@ -1,2 +1,2 @@
 # antimony
-a text editor, written in rusk
+a text editor, written in rust
